@@ -1,0 +1,33 @@
+#add_types{
+	padding-top: 28px;
+	/*color:white;*/
+	font-size: 16px;
+}
+header{
+	text-align: center;
+	margin-top: 53px;
+}
+p{
+	padding: 10px 0 10px 0; 
+}
+#whole{
+	margin-top: 10px;
+	margin-left: 20%;
+}
+.go{
+	width:100px;
+	height:40px;
+	background-color: white;
+	color: #0000ff;
+	border-radius: 10px;
+}
+.back{
+	width:100px;
+	height:40px;
+	margin-left: 20px;
+	background-color: white;
+	border-radius: 10px;
+}
+#end{
+	padding-top: 20px;
+}

@@ -1,0 +1,77 @@
+*{
+	font-family: 'Open Sans';
+	/*font-family: "Calibri", "Roboto", sans-serif;*/
+	/*box-sizing: border-box; */
+}
+.chatContainer{
+	width:100%;
+	height: 300px;
+	border-left:2px solid #ddd;
+	border-right:2px solid #ddd;
+	border-top:2px solid #ddd;
+}
+.chatHeader{
+	width: 100%;
+	background: white;
+	padding: 5px;
+	border-bottom: 1px solid #ddd;
+}
+.chatHeader h3{
+	margin: 0;
+	padding: 0;
+	color:#333;
+}
+.chatMessages{
+	height:100%;
+	border-bottom: 1px solid #ddd;
+	overflow-y: scroll; 
+}
+.noticeMessages{
+	height:100%;
+	border-bottom: 1px solid #ddd;
+	overflow-y: scroll; 
+}
+/*comment 的 submit*/
+.chatBottom > .submit{
+	width:50px;
+	padding:6px;
+	background: white;
+	border:1px solid #ddd;
+	cursor: pointer;
+	border-radius: 1px;
+}
+/*comment的text box*/
+.chatBottom form input[id='text']{
+	/*position: absolute;*/
+	width: 70%;
+	padding: 2px;
+	padding-left: 10px;
+	border-radius: 5px;
+	margin:5px;
+	height: 30px;
+}
+/*internal notice的submit*/
+.noticeBottom > .noticeSubmit{
+	width:50px;
+	padding:6px;
+	background: white;
+	border:1px solid #ddd;
+	cursor: pointer;
+	border-radius: 1px;
+}
+/*internal notice 的 text box*/
+.noticeBottom form input[id='noticeText']{
+	/*position: absolute;*/
+	width: 70%;
+	padding: 2px;
+	padding-left: 10px;
+	border-radius: 5px;
+	margin:5px;
+	height: 30px;
+} 
+.cm{
+	list-style: none;
+	border-style: inset;
+	border-bottom: 2px solid #ddd;
+	padding: 5px;
+}

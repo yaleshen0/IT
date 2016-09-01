@@ -1,0 +1,15 @@
+th{
+	width: 20%;
+	border-bottom: 1px solid #ddd;
+	background-color: #7575a3;
+	color: white;
+}
+td{
+	border-bottom: 1px solid #ddd;
+}
+td:nth-child(even){
+	border-right: 1px solid black;
+}
+#total{
+	background-color: #b3b3b3;
+}

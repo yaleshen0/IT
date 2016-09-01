@@ -1,0 +1,65 @@
+17:47:58 R <xml><ToUserName><![CDATA[gh_d062c1fab77b]]></ToUserName>
+<FromUserName><![CDATA[ohUVfwOQhJPheGUSO1qaags8jCps]]></FromUserName>
+<CreateTime>1468000044</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+17:48:06 R <xml><ToUserName><![CDATA[gh_d062c1fab77b]]></ToUserName>
+<FromUserName><![CDATA[ohUVfwOQhJPheGUSO1qaags8jCps]]></FromUserName>
+<CreateTime>1468000083</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1]]></Content>
+<MsgId>6305012347418066841</MsgId>
+</xml>
+17:48:06 T <xml>
+<ToUserName><![CDATA[ohUVfwOQhJPheGUSO1qaags8jCps]]></ToUserName>
+<FromUserName><![CDATA[gh_d062c1fab77b]]></FromUserName>
+<CreateTime>1468000086</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[请提供具体信息]]></Content>
+</xml>
+17:48:16 R <xml><ToUserName><![CDATA[gh_d062c1fab77b]]></ToUserName>
+<FromUserName><![CDATA[ohUVfwOQhJPheGUSO1qaags8jCps]]></FromUserName>
+<CreateTime>1468000092</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2]]></Content>
+<MsgId>6305012386072772512</MsgId>
+</xml>
+17:48:31 R <xml><ToUserName><![CDATA[gh_d062c1fab77b]]></ToUserName>
+<FromUserName><![CDATA[ohUVfwOQhJPheGUSO1qaags8jCps]]></FromUserName>
+<CreateTime>1468000092</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2]]></Content>
+<MsgId>6305012386072772512</MsgId>
+</xml>
+17:48:46 R <xml><ToUserName><![CDATA[gh_d062c1fab77b]]></ToUserName>
+<FromUserName><![CDATA[ohUVfwOQhJPheGUSO1qaags8jCps]]></FromUserName>
+<CreateTime>1468000092</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2]]></Content>
+<MsgId>6305012386072772512</MsgId>
+</xml>
+17:55:15 R <xml><ToUserName><![CDATA[gh_d062c1fab77b]]></ToUserName>
+<FromUserName><![CDATA[ohUVfwOQhJPheGUSO1qaags8jCps]]></FromUserName>
+<CreateTime>1468000512</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[时间]]></Content>
+<MsgId>6305014189959036884</MsgId>
+</xml>
+17:55:26 R <xml><ToUserName><![CDATA[gh_d062c1fab77b]]></ToUserName>
+<FromUserName><![CDATA[ohUVfwOQhJPheGUSO1qaags8jCps]]></FromUserName>
+<CreateTime>1468000523</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[有时间]]></Content>
+<MsgId>6305014237203677144</MsgId>
+</xml>
+17:55:36 R <xml><ToUserName><![CDATA[gh_d062c1fab77b]]></ToUserName>
+<FromUserName><![CDATA[ohUVfwOQhJPheGUSO1qaags8jCps]]></FromUserName>
+<CreateTime>1468000533</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[有时间吗]]></Content>
+<MsgId>6305014280153350108</MsgId>
+</xml>
+05:52:52 R 
+05:53:10 R 

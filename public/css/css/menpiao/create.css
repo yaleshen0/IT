@@ -1,0 +1,23 @@
+p{
+	padding: 10px 0 10px 0; 
+}
+.topP{
+	padding-top: 30px;
+}
+.go{
+	width:100px;
+	height:40px;
+	background-color: white;
+	color: #0000ff;
+	border-radius: 10px;
+}
+.back{
+	width:100px;
+	height:40px;
+
+	background-color: white;
+	border-radius: 10px;
+}
+#end{
+	padding-top: 20px;
+}

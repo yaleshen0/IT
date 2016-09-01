@@ -1,0 +1,16 @@
+th{
+	width: 10%;
+	border-bottom: 1px solid #ddd;
+	/*background-color: #7575a3;*/
+	/*color: white;*/
+}
+td{
+	border-bottom: 1px solid #ddd;
+	/*border-right: 1px solid black;*/
+}
+td:nth-child(even){
+	/*border-right: 1px solid black;*/
+}
+tr td:first-child{
+	font-weight: bold; 
+}
